@@ -4,7 +4,7 @@ class Car:
         self.speed = speed
         self.odometer = 0
         self.time = 0
-        % Prueba de MArcos
+        % Prueba de MArcos2
 
     def say_state(self):
         print("I'm going {} kph!".format(self.speed))
