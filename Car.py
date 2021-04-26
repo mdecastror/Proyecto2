@@ -26,6 +26,8 @@ class Car:
     def nada(self):
         pass
 
+    def nada3(self):
+        pass
 
 if __name__ == '__main__':
 
